@@ -1,5 +1,5 @@
 body{
-background-color:red;
+background-image:url("https://wallpapers-maker.com/wp-content/uploads/2017/01/19/wallperz.com-20170119051514.jpg");
 border:1px solid blue;
 
 }
@@ -27,19 +27,25 @@ border:1px solid blue;
          height:35%;
           width:100%;
           font-size:1.5em;
+		  color:grey;
+		  font-family: 'Pangolin', cursive;
 
 }
 .middleBodyContent{
          height:25%;
           width:100%;
-          border:double blue 1px;
+          border:double red 1px;
           font-size:3em;
+		  color:green;
+		  font-family: 'Spectral SC', serif;
 
 }
 .lowerBodyContent{
           height:auto;
           width:100%;
           font-size:1.5em;
+		  color:white;
+		  font-family: 'Pangolin', cursive;
           
 }
 
