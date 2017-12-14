@@ -7,7 +7,7 @@ border:1px solid blue;
 .contentMain{
      
      width:100%;
-     height:100%;
+     height:auto;
 
 
 }
@@ -67,7 +67,7 @@ border:1px solid blue;
 }
 .center{
       position:absolute;
-      left:34%;
+      left:38%;
       bottom:35%;
      display:table-cell;
      width:64px;
@@ -86,7 +86,7 @@ border:1px solid blue;
 .up{
        
       position:absolute;
-      left:34%;
+      left:38%;
       top:0;
       width:64px;
       height:66px;
@@ -96,7 +96,7 @@ border:1px solid blue;
 .down{
 
     position:absolute;
-    left:34%;
+    left:38%;
     bottom:0;
     width:64px;
     height:66px;
