@@ -24,22 +24,22 @@ border:1px solid blue;
 
 /*body content styling*/
 .upperBodyContent{
-          height:30%;
+         height:35%;
           width:100%;
-          font-size:1em;
+          font-size:1.5em;
 
 }
 .middleBodyContent{
-         minimum-height:20%;
+         height:25%;
           width:100%;
           border:double blue 1px;
-          font-size:2em;
+          font-size:3em;
 
 }
 .lowerBodyContent{
-          height:30%;
+          height:auto;
           width:100%;
-          font-size:1em;
+          font-size:1.5em;
           
 }
 
