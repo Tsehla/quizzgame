@@ -1,0 +1,278 @@
+body{
+background-color:red;
+border:1px solid blue;
+
+}
+
+.contentMain{
+     
+     width:100%;
+     height:500px;
+
+
+}
+
+.contentNavigator{
+
+     width:100px;
+     height:100px;
+     position:absolute;
+     right:0;
+     bottom:0;
+
+}
+
+/*body content styling*/
+.upperBodyContent{
+          height:30%;
+          width:100%;
+          font-size:20px;
+
+}
+.middleBodyContent{
+         minimum-height:20%;
+          width:100%;
+          border:double blue 1px;
+          font-size:45px;
+
+}
+.lowerBodyContent{
+          height:30%;
+          width:100%;
+          font-size:20px;
+          
+}
+
+
+/*navigator styling*/
+.navigatorNavigation{
+       position:absolute;
+       right:0;
+       bottom:0;
+       height:100px;
+       width:100px;
+       display:table;
+       background-color:pink;
+}
+
+.left{
+      position:absolute;
+      right:0;
+      bottom:35%;
+     display:table-cell;
+     width:32px;
+     height:30px;
+     background-color:yellow;
+
+}
+.center{
+      position:absolute;
+      left:34%;
+      bottom:35%;
+     display:table-cell;
+     width:32px;
+     height:30px;
+     background-color:green;
+}
+.right{
+      position:absolute;
+      left:0;
+      bottom:35%;
+     display:table-cell;
+     width:32px;
+     height:30px;
+     background-color:blue;
+}
+.up{
+       
+      position:absolute;
+      left:34%;
+      top:0;
+      width:32px;
+      height:33px;
+      background-color: brown;
+
+}
+.down{
+
+    position:absolute;
+    left:34%;
+    bottom:0;
+    width:32px;
+    height:33px;
+    background-color:orange;
+
+}
+
+/*body Content*/
+/*upper*/
+
+.UcontentOne {
+        
+        display:none;
+
+}
+.UcontentTwo {
+        
+        display:none;
+
+}
+.UcontentThree {
+        
+        display:none;
+
+}
+.UcontentFour {
+        
+        display:none;
+
+}
+.UcontentFive {
+        
+        display:none;
+
+}
+.UcontentSix {
+        
+        display:none;
+
+}
+.UcontentSeven {
+        
+        display:none;
+
+}
+.UcontentEight {
+        
+        display:none;
+
+}
+.UcontentNine {
+        
+        display:none;
+
+}
+.UcontentTen {
+        
+        display:none;
+
+}
+.UcontentEleven {
+        
+        display:none;
+
+}
+
+/*middle*/
+.contentOne {
+        
+        display:none;
+
+}
+.contentTwo {
+        
+        display:none;
+
+}
+.contentThree {
+        
+        display:none;
+
+}
+.contentFour {
+        
+        display:none;
+
+}
+.contentFive {
+        
+        display:none;
+
+}
+.contentSix {
+        
+        display:none;
+
+}
+.contentSeven {
+        
+        display:none;
+
+}
+.contentEight {
+        
+        display:none;
+
+}
+.contentNine {
+        
+        display:none;
+
+}
+.contentTen {
+        
+        display:none;
+
+}
+.contentEleven {
+        
+        display:none;
+
+}
+/*lower*/
+
+.LcontentOne {
+        
+        display:block;
+
+}
+.LcontentTwo {
+        
+        display:block;
+
+}
+.LcontentThree {
+        
+        display:block;
+
+}
+.LcontentFour {
+        
+        display:block;
+
+}
+.LcontentFive {
+        
+        display:block;
+
+}
+.LcontentSix {
+        
+        display:block;
+
+}
+.LcontentSeven {
+        
+        display:block;
+
+}
+.LcontentEight {
+        
+        display:block;
+
+}
+.LcontentNine {
+        
+        display:block;
+
+}
+.LcontentTen {
+        
+        display:block;
+
+}
+.LcontentEleven {
+        
+        display:block;
+
+}
